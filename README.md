@@ -124,12 +124,12 @@ Certifique-se de substituir "Nome do usuário" pelo seu nome de usuário, "SeuEm
     ```bash
     git log
     ```
-  Log's mais otimizado:
-  ```bash
+    Log's mais otimizado:
+    ```bash
     git log --oneline
     ```
-  Log's mais detalhado:
-  ```bash
+    Log's mais detalhado:
+    ```bash
     git log -p
     ```
 
@@ -226,7 +226,7 @@ Substitua "commit-hash" pelo hash do commit ao qual deseja retornar. Tenha cuida
     git switch nome_da_branch
     ```
 
-    Substituo "nome_da_branch" pelo nome da branch que desejo acessar. Isso me permite trabalhar em diferentes partes do projeto e acompanhar o desenvolvimento em cada uma delas de forma organizada.
+    Substitua "nome_da_branch" pelo nome da branch que deseja acessar. Isso permitirá trabalhar em diferentes partes do projeto e acompanhar o desenvolvimento em cada uma delas de forma organizada.
 
 #
 
@@ -238,7 +238,7 @@ Substitua "commit-hash" pelo hash do commit ao qual deseja retornar. Tenha cuida
     git branch -d nome_da_branch
     ```
 
-    Substituo "nome_da_branch" pelo nome da branch que desejo excluir. Isso ajuda a manter um ambiente de trabalho limpo e organizado, enquanto ainda mantém um registro das alterações no GitHub.
+    Substitua "nome_da_branch" pelo nome da branch que deseja excluir. Isso ajuda a manter um ambiente de trabalho limpo e organizado, enquanto ainda mantém um registro das alterações no GitHub.
 
 
     
